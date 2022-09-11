@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.outlined.btn {
+    background-color:#FFFFFF;
+    border: 1px solid #E9E9E9;
+}
+
+.outlined.btn:hover {
+    background-color:#FAFAFA;
+}
+
+button.primary.btn {
+    background-color:#FE2C55;
+    color:#FFFFFF;
+}
+
+button.primary.btn:hover {
+    background-color:#F02A51;
+}
+
+.primary.btn.text {
+    color:#FE2C55;
+}
+
+.outlined.primary.btn {
+    background-color: #FFFFFF;
+    border: 1px solid #FE2C55;
+    color: #FE2C55;
+}
+
+.outlined.primary.btn:hover {
+    background-color:#FFF4F5;
+}

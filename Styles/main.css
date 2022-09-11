@@ -31,3 +31,7 @@ button.primary.btn:hover {
 .outlined.primary.btn:hover {
     background-color:#FFF4F5;
 }
+
+.secondary.btn.text {
+    text-transform: uppercase;
+}
